@@ -21,12 +21,14 @@ body{
     border: 2px solid black;
 } */
 h1{
-    position: fixed;
-    top: 10%;
-    font-size: 3rem;
-    background-color: aquamarine;
+    top: 0;
+    padding: 15px 0px;
     width: 100%;
+    position: fixed;
+    margin-top: 0px;
+    font-size: 3rem;
     text-align: center;
+    background-color: aquamarine;
 }
 img{
     position: fixed;
